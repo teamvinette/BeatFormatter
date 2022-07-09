@@ -13,7 +13,7 @@ main.py:
 - In "Types" are all the types concerning licencing included 
   - If you have more than three, you need to add on the profit_types below
   
-- In final_beat_name_var is the formatting of you title 
+- In final_beat_name_var is the formatting of your title 
   - It is a combination of variables and text, so look out for ""
 
 - In "description" is the formatting of your description 
